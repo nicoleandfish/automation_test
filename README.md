@@ -11,4 +11,9 @@
 - Playwright
 - Pytest
 
+'''Bash
+pip install playwright pytest
+playwright install
+'''
+
 ## 文件结构
